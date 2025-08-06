@@ -7,6 +7,7 @@ namespace MyNamespace
         public void MyMethod()
         {
             Console.WriteLine("Hello, World!");
+            // Some stuff changes here
         }
     }
 }
